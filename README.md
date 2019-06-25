@@ -2,7 +2,7 @@
 These are cheat sheets that you can reference when using the various technologies and languages that are taught here at Lambda School.
 
 ## User Interface
-    1. [W3Schools](https://www.w3schools.com "W3Schools Home Page")
+    * [W3Schools](https://www.w3schools.com "W3Schools Home Page")
 ## Advanced CSS
 
 ## JavaScript
