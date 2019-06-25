@@ -1,6 +1,7 @@
 # Cheat Sheets R Us
 These are cheat sheets that you can reference when using the various technologies and languages that are taught here at Lambda School.
 
+=======
 ## User Interface
 [W3Schools](https://www.w3schools.com "W3Schools Home Page")
 ## Advanced CSS
@@ -16,3 +17,5 @@ These are cheat sheets that you can reference when using the various technologie
 ## Lambda-Times-React
 
 ## React-Smurfs
+
+Created by the wonderful Team Leads in Web22, aka, The Cool Kids.

@@ -1,0 +1,7 @@
+Though the project is not maintained, this content is still useful,
+it contains cheat sheets for react, react router, and redux:
+http://www.developer-cheatsheets.com/
+
+An axios cheat sheet:
+https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index
+
