@@ -60,4 +60,7 @@ This way, you can use REM without much fuss, as 1rem now equals 10 pixels.
 
 ## React-Smurfs
 
+Hey Mack, you should update this again.
+
 Created by the wonderful Team Leads in Web22, aka, The Cool Kids.
+
