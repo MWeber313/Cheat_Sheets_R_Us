@@ -29,4 +29,7 @@ The div container (html and css):
 
 ## React-Smurfs
 
+Hey Mack, you should update this again.
+
 Created by the wonderful Team Leads in Web22, aka, The Cool Kids.
+
